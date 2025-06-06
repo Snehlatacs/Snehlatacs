@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/snehlata-prajapati/" target="blank">
-  <img src="images/lkdn.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="[images/lkdn.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
